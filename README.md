@@ -1,5 +1,4 @@
-git ## CI/CD with [buddy.works]
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## git  CI/CD with [buddy.works](https://buddy.works).
 
 ## Available Scripts
 
